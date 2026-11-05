@@ -67,33 +67,6 @@
 
 ---
 
-## 📂 Estructura del Proyecto
-
-```text
-MG-Halloween-ReservaPelicula/
-├── assets/                  # Imágenes, marcas de agua y figuras de Jason
-│   ├── crystal-lake-bg.jpg
-│   ├── jason-full.png       # Asset completo de Jason para notebook y monitor
-│   ├── jason-mask.png       # Máscara clásica de hockey
-│   ├── jason-shadow.png     # Marca de agua en tarjetas
-│   └── logo-migusto.png     # Identidad oficial de Mi Gusto
-├── public/                  # Archivos estáticos y multimedia pública
-│   ├── og-image.jpg         # Vista previa optimizada para WhatsApp (1200x630)
-│   ├── screenshots/         # Capturas de pantalla para documentación
-│   │   ├── Screenshot_5.png
-│   │   ├── Screenshot_6.png
-│   │   └── Screenshot_7.png
-│   └── videos/              # Video en bucle (web.mp4 y app.mp4)
-├── dist/                    # Build final optimizado para DonWeb
-├── index.html               # Estructura principal, meta tags y scripts
-├── style.css                # Estilos globales, diseño responsive y temas
-├── main.js                  # Lógica interactiva, contadores, audio y webhooks
-├── vite.config.js           # Configuración del empaquetador Vite
-└── package.json             # Scripts y dependencias del proyecto
-```
-
----
-
 ## 🚀 Puesta en Marcha en Local
 
 1. **Clonar el repositorio:**
